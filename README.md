@@ -1,1 +1,3 @@
-this is my readme file created in the master branch
+# Guacamole recipe
+
+Used in teaching Git
